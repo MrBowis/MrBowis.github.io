@@ -91,10 +91,14 @@ section img {
 }
 
 footer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
     color: white;
     background-color: #362f42;
     margin-top: 25px;
-    padding: 50px 0px;
+    margin-bottom: 0px;
+    padding: 19.5px 0px;
 }
 
 footer p {
